@@ -1,8 +1,6 @@
 <h1 align="center">Hello there, I'm Igor Acatauassu</h1>
 <h3 align="center">Computer engineering undergraduate on a journey to increase software development skills and follow a full-time programming career.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radicrow" alt="radicrow" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks, APIs, Data Structure**
 
 - 📫 How to reach me **Igoracatauassu03@gmail.com**
@@ -18,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radicrow&show_icons=true&theme=dark&locale=en&layout=compact" alt="radicrow" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radicrow&show_icons=true&locale=en" alt="radicrow" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radicrow&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=1f1e1f&locale=en" alt="radicrow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radicrow&theme=dark" alt="radicrow" /></p>
