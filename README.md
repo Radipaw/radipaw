@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Igor Acatauassu</h1>
-<h3 align="center">Computer engineering undergraduate on a journey to increase software development skills and follow a full-time programming career.</h3>
+<h3 align="center">Computer engineering undergraduate on a journey to sharpen my software development skills and follow a full-time programming career.</h3>
 
 - 🌱 I’m currently learning **Frameworks, APIs, Data Structure**
 
