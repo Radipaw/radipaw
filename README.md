@@ -2,7 +2,9 @@
 <h3 align="center">Computer engineering undergraduate on a journey to increase my software development skills and follow a full-time programming career</h3>
 
 - 🌱 I’m currently learning **Frameworks, APIs, Data Structure**
+ <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
 
+ 
 - 📫 How to reach me **Igoracatauassu03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
