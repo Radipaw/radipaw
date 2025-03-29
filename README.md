@@ -27,9 +27,6 @@
   <a href="https://godotengine.org" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/6318500?s=280&v=4" alt="godot" width="40" height="40"/>
   </a>
-  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/15833774/148412695-011a2edb-6d7c-46fd-944e-02885e7aed7b.png" alt="unreal" width="40" height="40"/>
-  </a>
 </p>
 
 
