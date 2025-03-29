@@ -1,8 +1,12 @@
 <h1 align="center">Hello there, I'm Igor Acatauassu</h1>
 <h3 align="center">Computer engineering undergraduate on a journey to increase my software development skills and follow a full-time programming career!!</h3>
 
-- 🌱 I’m currently learning **Frameworks, APIs, Data Structure**
-- <p align="left"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png" alt="fastapi" width="40" height="40"/></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.instalki.pl/wp-content/uploads/program/icons/unnamed-8.png" alt="dotnet" width="40" height="40"/></a></p>
+
+- 🌱 ***Dotnet*** developer intern at ***Quarter Tecnologias***
+- <p align="left"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/5deae0f0b95cec79f799c152535ca275e64595bb/topics/fastapi/fastapi.png" alt="fastapi" width="40" height="40"/></a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.instalki.pl/wp-content/uploads/program/icons/unnamed-8.png" alt="dotnet" width="40" height="40"/></a>
+</p>
+
+- <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
  
 - 📫 How to reach me **Igoracatauassu03@gmail.com**
